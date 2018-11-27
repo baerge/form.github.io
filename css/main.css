@@ -33,7 +33,7 @@ header h1{
     line-height: 4rem;
     padding: 1rem 1rem;
     color:red rgba(250,250,250, 0.7);
-    text-shadow: 2px 2px 4px grey;
+    text-shadow: rgb(84, 31, 31);
     vertical-align: top;
     text-align: right;
     min-height: 12rem;
