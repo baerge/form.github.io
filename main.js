@@ -7,7 +7,7 @@ const updatePrice = (ev) => {
         e.target.classList.add('price');
         console.log(e.target.value);
         console.log(ev.target.getAttribute('data-price'));
-    }, 25, ev);
+    }, 10, ev);
 }
 let min = document.getElementById('min');
 let max = document.getElementById('max');
