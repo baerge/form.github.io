@@ -1,5 +1,5 @@
-@import url('some google sans-serif font');
-/* make sure to select a new google font and use it for your header */
+@import url('some google display font');
+
 
 *{
     padding: 0;
@@ -13,7 +13,9 @@
 html{
     font-size: 20px;
     line-height: 1.5;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    font-family: font-family:'Trebuchet MS', 'Lucida Sans Unicode',
+    'Lucida Grande',
+   'Lucida Sans', Arial, sans-serif;
 }
 main{
     width: 90%;
@@ -21,8 +23,7 @@ main{
     border: 1px solid #aaa;
 }
 header{
-    /* Photo by Wyatt Ryan on Unsplash */
-    /* Replace this with an image that you select */
+    /* Photo by The Roaming Platypus on Unsplash */
     background-image: url(../img/mind.jpg);
     background-size: 100% auto;
     background-position: center center;
