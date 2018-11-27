@@ -1,5 +1,4 @@
-@import url('some google sans-serif font');
-/* make sure to select a new google font and use it for your header */
+@import url('some google display font');
 
 *{
     padding: 0;
@@ -23,7 +22,7 @@ main{
 header{
     /* Photo by Wyatt Ryan on Unsplash */
     /* Replace this with an image that you select */
-    background-image: url(../img/mind.jpg);
+    background-image: url(../img/minds.jpg);
     background-size: 100% auto;
     background-position: center center;
 }
