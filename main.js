@@ -11,5 +11,5 @@ const updatePrice = (ev) => {
 }
 let min = document.getElementById('min');
 let max = document.getElementById('max');
-min.addEventListener('change', datePrice);
+min.addEventListener('change', updatePrice);
 max.addEventListener('change', updatePrice);
