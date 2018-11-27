@@ -1,4 +1,8 @@
 @import url('some google display font');
+<<<<<<< HEAD
+=======
+
+>>>>>>> f8f1b9690186e17857c47e7a554ae4aee9a178c3
 
 *{
     padding: 0;
@@ -12,7 +16,9 @@
 html{
     font-size: 20px;
     line-height: 1.5;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    font-family: font-family:'Trebuchet MS', 'Lucida Sans Unicode',
+    'Lucida Grande',
+   'Lucida Sans', Arial, sans-serif;
 }
 main{
     width: 90%;
@@ -20,8 +26,12 @@ main{
     border: 1px solid #aaa;
 }
 header{
+<<<<<<< HEAD
     /* Photo by Wyatt Ryan on Unsplash */
     /* Replace this with an image that you select */
+=======
+    /* Photo by The Roaming Platypus on Unsplash */
+>>>>>>> f8f1b9690186e17857c47e7a554ae4aee9a178c3
     background-image: url(../img/minds.jpg);
     background-size: 100% auto;
     background-position: center center;
